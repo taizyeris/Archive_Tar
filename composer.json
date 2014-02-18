@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Archive_Tar": ""
+            "Archive": "./"
         }
     },
     "include-path": [
